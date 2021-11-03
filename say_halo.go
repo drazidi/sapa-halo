@@ -1,5 +1,5 @@
 package sapa_halo
 
-func SapaHalo() string {
-	return "Halo Semua"
+func SapaHalo(nama string) string {
+	return "Halo " + nama
 }
